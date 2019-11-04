@@ -1,0 +1,135 @@
+{
+  "welcome": {
+    "greeting": ["Hello", "Hola", "Hallo"],
+    "farewell": ["Goodbye", "Adiós", "Auf Wiedersehen"]
+  },
+  "login": {
+    "headline": ["Sign in", "Registrarse", "Einloggen"],
+    "email_address": ["Email Address", "Dirección de correo electrónico", "E-Mail-Addresse"],
+    "password": ["Password", "Contraseña", "Passwort"],
+    "remember": ["Remember me", "Recuérdame", "Erinnere dich an mich"],
+    "sign_in": ["Sign in", "Registrarse", "Einloggen"]
+  },
+  "dashboard": {
+    "headline": ["Dashboard", "Tablero", "Instrumententafel"],
+    "chat": {
+      "headline": ["Chat with Agent", "Chatear con el agente", "Chatten Sie mit Agent"],
+      "subhead": ["Our virtual agent is available 24x7, chat with them directly and solve your problem.", "Nuestro agente virtual está disponible 24x7, chatea con ellos directamente y resuelve tu problema.", "All the information you may require at any point is available here ready to search.",
+        "Unser virtueller Agent ist rund um die Uhr verfügbar, chatten Sie direkt mit ihm und lösen Sie Ihr Problem."],
+      "agentTxt": ["Hello, I'm the Unisys virtual agent.", "Hola, soy el agente virtual de Unisys.", "Hallo, ich bin der virtuelle Agent von Unisys."],
+      "agentSubTxt": ["I’m here to answer your Unisys questions.", "Estoy aquí para responder a sus preguntas de Unisys.",
+      "Ich bin hier, um Ihre Fragen zu Unisys zu beantworten."],
+      "axaagentTxt": ["Hello, I'm the Ask I.T. Virtual Agent", "Hola, soy el Ask I.T. Agente virtual", "Hallo, ich bin der Ask I.T."],
+      "axaagentSubTxt": ["I’m here to answer your I.T. questions", "Estoy aquí para responder a su I.T. preguntas", "Ich bin hier, um Ihre ITE zu beantworten. Fragen"],
+      "btnTxt": ["Chat with a virtual agent now", "Chatea con un agente virtual ahora", "Chatten Sie jetzt mit einem virtuellen Agenten"]
+    },
+    "tickets": {
+      "empty": ["There are no open tickets at this time", "No hay entradas abiertas en este momento", "Derzeit sind keine offenen Tickets verfügbar"],
+      "create": ["Create Ticket", "Crear Ticket", "Ticket erstellen"],
+      "headline": ["Ticket Management", "Gestión de entradas", "Ticketverwaltung"],
+      "headline2": ["Open Tickets", "Entradas abiertas", "Offene Tickets"],
+      "subhead": ["View all your open tickets for better tracking and management.", "Cree un ticket para rastrear o mantenerse actualizado sobre sus problemas existentes.",
+      "Zeigen Sie alle offenen Tickets zur besseren Verfolgung und Verwaltung an."],
+      "subhead2": ["Create a ticket or stay up to date on your existing issues.", "Cree un boleto o manténgase actualizado sobre sus problemas existentes.",
+      "Erstellen Sie ein Ticket oder bleiben Sie über Ihre bestehenden Probleme auf dem Laufenden."],
+      "viewBtn": ["View Open", "Vista Abierta", "Ansicht Öffnen"],
+      "createBtn": ["Create", "Crear", "Erstellen"],
+      "link": ["VIEW ALL OPEN TICKETS", "VER TODOS LOS ENTRADAS ABIERTAS", "ALLE OFFENEN TICKETS ANZEIGEN"]
+    },
+    "knowledge": {
+      "headline": ["Knowledge Base", "Base de conocimientos", "Wissensbasis"],
+      "subhead": ["All the information you may require at any point is available here ready to search.", "Toda la información que pueda necesitar en cualquier momento está disponible aquí lista para buscar.",
+      "Alle Informationen, die Sie an einem beliebigen Punkt benötigen, stehen hier zur Suche bereit."],
+      "go": ["Go", "Ir", "Gehen"],
+      "search": ["Search Now", "Buscar Ahora", "Jetzt suchen"]
+    },
+    "issues": {
+      "headline": ["Common Issues", "Problemas comunes", "Häufige Probleme"],
+      "subhead": ["Look through our commonly known ticket issues to save time and effort.", "Mire a través de nuestros problemas de boletos comúnmente conocidos para ahorrar tiempo y esfuerzo.",
+      "Sehen Sie sich unsere allgemein bekannten Ticketprobleme an, um Zeit und Mühe zu sparen."]
+    },
+    "outage": {
+      "empty": ["There are no known outages at this time", "No hay cortes conocidos en este momento", "Derzeit sind keine Ausfälle bekannt"],
+      "headline": ["Outages", "Cortes de luz", "Ausfälle"],
+      "subhead": ["Know about outages and plan your day's activities accordingly.", "Conozca las interrupciones y planifique las actividades de su día en consecuencia.",
+      "Informieren Sie sich über Ausfälle und planen Sie die Aktivitäten Ihres Tages entsprechend."],
+      "date": ["As of ${dateString}", "A partir del ${dateString}", "Ab $ {dateString}"],
+      "knownOutages": ["Known Outages", "Problemas conocidos", "Bekannte Ausfälle"],
+      "footer": {
+        "knownIssues": ["${num} of ${num} known issues", "${num} de ${num} problemas conocidos", "$ {num} von $ {num} bekannten Problemen"],
+        "link": ["VIEW ALL KNOWN OUTAGES", "VER TODAS LAS EXISTENCIAS QUE SE CONOCEN", "ALLE BEKANNTEN AUSFÄLLE ANZEIGEN"]
+      },
+      "knownIssues": ["${num} of ${num} known issues", "${num} de ${num} problemas conocidos", "$ {num} von $ {num} bekannten Problemen"],
+      "viewBtn": ["VIEW NOW", "VER AHORA", "JETZT ANSEHEN"],
+      "link": ["VIEW ALL KNOWN OUTAGES", "VER TODAS LAS EXISTENCIAS QUE SE CONOCEN", "ALLE BEKANNTEN AUSFÄLLE ANZEIGEN"]
+    }
+  },
+  "sideNav": {
+    "home": ["Home", "Casa", "Zuhause"],
+    "refresh": ["Refresh", "Refrescar", "Aktualisierung"],
+    "logout": ["LOGOUT", "CERRAR SESIÓN", "AUSLOGGEN"],
+    "callAgent": ["Call an Agent", "Llamar a un agente", "Rufen Sie einen Agenten an"],
+    "createTicket": ["Create Ticket", "Crear Ticket", "Ticket erstellen"],
+    "openTicket": ["Open Tickets", "Ver entradas abiertas", "Offene Tickets"],
+    "knowledge": ["Knowledge Base", "Conocimiento", "Wissensbasis"],
+    "issues": ["Common Issues", "Problemas comunes", "Häufige Probleme"],
+    "outages": ["Outages", "Cortes de luz", "Ausfälle"],
+    "scheduleCall": ["Schedule Contact", "programar contacto", "Kontakt planen"],
+    "survey": ["Survey", "Encuesta", "Umfrage"],
+    "video": ["Video", "Vídeo", "Video"],
+    "demo": ["Demo", "Demostración", "Demo"]
+  },
+  "createTicket": {
+    "title": ["Title","Título", "Titel"],
+    "description": ["Description", "Descripción", "Beschreibung"],
+    "submit": ["Create Ticket", "Crear Ticket", "Ticket erstellen"],
+    "headline": ["Create Ticket", "Crear Ticket", "Ticket erstellen"],
+    "subhead": ["Create a ticket or stay up to date on your existing issues.", "Cree un boleto o manténgase actualizado sobre sus problemas existentes",
+    "Erstellen Sie ein Ticket oder bleiben Sie über Ihre bestehenden Probleme auf dem Laufenden."],
+    "placeholderTitle": ["Give an appropriate topic title to your ticket", "Dé un título apropiado a su boleto", "Geben Sie Ihrem Ticket einen passenden Thementitel"],
+    "placeholderDescription": ["Write about the topic you have a question about.", "Escribe sobre el tema sobre el que tienes una pregunta.", 
+    "Schreiben Sie über das Thema, zu dem Sie eine Frage haben."],
+    "viewOpenButton": ["View open tickets", "Ver entradas abiertas", "Offene Tickets anzeigen"],
+    "placeholderDescription": ["Write about the topic you have a question about.", "Escribe sobre el tema sobre el que tienes una pregunta.",
+    "Schreiben Sie über das Thema, zu dem Sie eine Frage haben."]
+  },
+  "scheduleCallBack": {
+    "firstName": ["First Name", "Nombre de pila", "Vorname"],
+    "lastName": ["Last Name", "Apellido", "Nachname"],
+    "phoneNumber": ["Phone Number", "Número de teléfono", "Telefonnummer"],
+    "promiseDate": ["Schedule Date", "Fecha de programacion", "Planen Sie Datum"],
+    "promiseTime": ["Select Time", "Seleccione tiempo", "Zeit auswählen"],
+    "timeZone": ["Time Zone", "Zona horaria", "Zeitzone"],
+    "description": ["Description", "Descripción", "Beschreibung"],
+    "firstNamePlaceholder": ["Provide your first name", "Proporcione su primer nombre", "Geben Sie Ihren Vornamen an"],
+    "lastNamePlaceholder": ["Provide your last name", "Proporcione su apellido", "Geben Sie Ihren Nachnamen an"],
+    "phoneNumberPlaceholder": ["Please type your contact number here", "Por favor escriba su número de contacto aquí", "Bitte geben Sie hier Ihre Kontaktnummer ein"],
+    "promiseDatePlaceholder": ["Please pick the desired date", "Por favor elige la fecha deseada", "Bitte wählen Sie das gewünschte Datum"],
+    "descriptionPlaceholder": ["Write about the topic you have a question about.", "Escribe sobre el tema sobre el que tienes una pregunta.", "Schreiben Sie über das Thema, zu dem Sie eine Frage haben."],
+    "submit": ["Schedule Now", "Programar ahora", "Jetzt planen"],
+    "headline": ["Want us to call you?", "¿Quiéres que te llamemos?", "Möchten Sie, dass wir Sie anrufen?"],
+    "subhead": ["Schedule a call back at your specified time.", "Programe una llamada a su hora especificada.", 
+    "Planen Sie einen Rückruf zu Ihrem angegebenen Zeitpunkt."],
+    "subhead1": ["We want to answer your questions at a time that is convenient for you.", "ueremos responder a sus preguntas en un momento que sea conveniente para usted.", 
+    "Wir möchten Ihre Fragen zu einem für Sie passenden Zeitpunkt beantworten."],
+    "subhead2": ["Please let us know what questions you have, and when the best time for you to talk about them is!", "¡Díganos qué preguntas tiene, y cuándo es el mejor momento para hablar de ellas!", 
+    "Bitte lassen Sie uns wissen, welche Fragen Sie haben und wann die beste Zeit für Sie ist, darüber zu sprechen!"],
+
+    "placeholderTitle": ["Give an appropriate topic title", "Dar un título de tema apropiado", "Geben Sie einen geeigneten Thementitel an"],
+    "placeholderDescription": ["Write about the topic you have a question about.", "Escribe sobre el tema sobre el que tienes una pregunta.", "Schreiben Sie über das Thema, zu dem Sie eine Frage haben."]
+  },
+  "callAgent": {
+    "header": ["Call an Agent", "Llamar a un agente", "Rufen Sie einen Agenten an"],
+    "body": ["Speak to our agents directly or schedule a call back at your specified time.", "Hable con nuestros agentes directamente o programe una devolución de llamada a la hora especificada.", "Sprechen Sie direkt mit unseren Vertretern oder vereinbaren Sie einen Rückruf zu einem bestimmten Zeitpunkt."]
+  },
+  "noIOS": {
+    "body": ["You are using an IOS device. On this device, please click the link below to access IVA.", "Está utilizando un dispositivo IOS. En este dispositivo, haga clic en el siguiente enlace para acceder a IVA.",
+    "Sie verwenden ein iOS-Gerät. Klicken Sie auf diesem Gerät auf den folgenden Link, um auf IVA zuzugreifen."],
+    "link": ["ACCESS FEATURE NOW", "ACCESS FEATURE NOW", "ZUGRIFFSFUNKTION JETZT"]
+  },
+  "noIE": {
+    "body": ["You are using IE/Edge browser. On this browser, please click the link below to access IVA.", "Está utilizando un dispositivo IE. En este dispositivo, haga clic en el siguiente enlace para acceder a IVA.", 
+    "Sie verwenden den IE / Edge-Browser. Klicken Sie in diesem Browser auf den folgenden Link, um auf IVA zuzugreifen."],
+    "link": ["ACCESS FEATURE NOW", "ACCESS FEATURE NOW", "ZUGRIFFSFUNKTION JETZT"]
+  }
+}

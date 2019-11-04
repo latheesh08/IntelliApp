@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'InteliApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'GoogleSignIn', '~> 5.0.0'
+#  pod 'RNGoogleSignin', :path => '../node_modules/@react-native-community/google-signin'
+  # Pods for InteliApp
+
+  target 'InteliApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+  end
+
+  target 'InteliAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'InteliApp-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for InteliApp-tvOS
+
+
+
+end

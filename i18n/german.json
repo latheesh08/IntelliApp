@@ -1,0 +1,159 @@
+{
+  "loading":["Wird geladen"],
+  "success":["Erfolg"],
+  "net_failure":["Keine Internetverbindung"],
+    "welcome": {
+      "welcome":["Willkommen zu"],
+      "greeting": ["Hallo"],
+      "farewell": ["Auf Wiedersehen"],
+      "accept":["AKZEPTIEREN"],
+      "terms":["NUTZUNGSBEDINGUNGEN"],
+      "Decline":["ABLEHNEN"],
+      "text":[
+        "ENDBENUTZERLIZENZ FÜR ANDROID/IOS INTELISERVE SOFTWARE BITTE LESEN SIE DIESES DOKUMENT SORGFÄLTIG DURCH, BEVOR SIE DIESE SOFTWARE VERWENDEN.",
+        "DIESE LIZENZ BIETET WICHTIGE INFORMATIONEN ÜBER DIE SOFTWARE, BIETET IHNEN EINE LIZENZ FÜR DIE NUTZUNG DER SOFTWARE UND ENTHÄLT GARANTIE- UND HAFTUNGSINFORMATIONEN.",
+        "MIT DER NUTZUNG DER SOFTWARE AKZEPTIEREN SIE DIE SOFTWARE 'WIE BESEHEN' UND STIMMEN ZU, AN DIE BESTIMMUNGEN DIESER LIZENZVEREINBARUNG GEBUNDEN ZU SEIN.",
+        "In keinem Fall haften die Autoren für Schäden, die durch die Verwendung dieser Software entstehen.",
+        "WENN SIE DAS NICHT WOLLEN, NIEMALS DIE SOFTWARE VERWENDEN.",
+        "1. Lizenzbedingungen Mit dieser Lizenz können Sie: (a) die Software auf einem einzelnen Gerät verwenden; und Wenn Sie die Software auf mehr als einem Gerät verwenden möchten, müssen Sie eine weitere Kopie der Software lizenzieren",
+        "2. Nutzungsbeschränkungen Sofern UNISYS (Eigentümer) Sie nicht zum Vertrieb der Software autorisiert hat, dürfen Sie keine Kopien der Software erstellen oder verteilen oder die Software von einem Gerät auf ein anderes übertragen. Sie dürfen die Software nicht dekompilieren, zurückentwickeln, disassemblieren, in andere Software aufnehmen, übersetzen oder für kommerzielle Zwecke verwenden. Sie dürfen die Software nicht modifizieren, ändern, ändern oder auf andere Weise modifizieren oder abgeleitete Werke auf der Basis der Software erstellen. Sie dürfen die Software oder diese Lizenz nicht vermieten, leasen, weiterverkaufen, unterlizenzieren, abtreten, vertreiben oder auf andere Weise übertragen. Jeder Versuch, dies zu tun, ist nichtig und ohne Wirkung.",
+        "3. Eigentum Diese Lizenz gewährt Ihnen eingeschränkte Rechte zur Nutzung der Software. Der Eigentümer behält sich das gesamte Eigentum, Recht, Eigentum und Interesse an der Software und allen Kopien davon vor. Alle in dieser Lizenz nicht ausdrücklich gewährten Rechte, einschließlich nationaler und internationaler Urheberrechte, bleiben dem Eigentümer vorbehalten.",
+        "4. Markenzeichen Die Logos, Produktnamen, Handbücher, Dokumentationen und sonstigen Unterlagen des Eigentümers sind entweder patentiert, urheberrechtlich geschützt, als Warenzeichen geschützt, stellen wertvolle Geschäftsgeheimnisse dar (unabhängig davon, ob ein Teil davon urheberrechtlich geschützt oder patentiert ist) oder sind anderweitig geschützt der Besitzer. Sie dürfen das Urheberrecht, das Warenzeichen oder andere Eigentumsvermerke des Inhabers nicht von Materialien entfernen oder verdecken, die in diesem Paket enthalten sind oder die zusammen mit der Software heruntergeladen wurden.",
+        "5. Gewährleistungsausschluss und technischer Support Die Software wird Ihnen nach Zahlung einer Lizenz und ohne Mängelgewähr ohne jegliche technische Unterstützung oder Gewährleistung jeglicher Art zur Verfügung gestellt ein bestimmter Zweck und Nichtverletzung.",
+        "EINIGE GERICHTSBESTIMMUNGEN ERLAUBEN NICHT DEN AUSSCHLUSS STILLSCHWEIGENDER GARANTIEN"
+               
+      ]
+    },
+    "login": {
+      "headline": ["Einloggen"],
+      "email_address": ["E-Mail-Addresse"],
+      "password": ["Passwort"],
+      "remember": ["Erinnere dich an mich"],
+      "sign_in": ["Einloggen"],
+      "required":["Dieses Feld wird benötigt"],
+      "invalidEmail":["Bitte geben Sie eine gültige E-Mail-Adresse ein"],
+      "notregister":["E-Mail-ID ist nicht registriert"],
+      "notenant":["Mieter nicht gefunden"]
+    },
+    "dashboard": {
+      "rowsPerPage": ["Zeilen pro Seite"],
+      "inputCharacters": ["${noOfChar} Zeichen übrig"],
+      "results": ["${resultNo} gefundene Ergebnisse"],
+      "headline": ["Instrumententafel"],
+      "chat": {
+        "headline": ["Chatten Sie mit Agent"],
+        "subhead": ["Unser virtueller Agent ist rund um die Uhr verfügbar, chatten Sie direkt mit ihm und lösen Sie Ihr Problem."],
+        "agentTxt": ["Hallo, ich bin der virtuelle Agent von Unisys."],
+        "agentSubTxt": ["Ich bin hier, um Ihre Fragen zu Unisys zu beantworten."],
+        "axaagentTxt": ["Hallo, ich bin der Ask I.T."],
+        "axaagentSubTxt": ["Ich bin hier, um Ihre ITE zu beantworten. Fragen"],
+        "btnTxt": ["Chatte Jetzt"]
+      },
+      "tickets": {
+        "empty": ["Derzeit sind keine offenen Tickets verfügbar"],
+        "searchEmpty": ["Für diese Suche wurden keine offenen Tickets gefunden"],
+        "create": ["Ticket erstellen"],
+        "headline": ["Ticketverwaltung"],
+        "headline2": ["Offene Tickets"],
+        "subhead": ["Zeigen Sie alle offenen Tickets zur besseren Verfolgung und Verwaltung an."],
+        "subhead2": ["Erstellen Sie ein Ticket oder bleiben Sie über Ihre bestehenden Probleme auf dem Laufenden."],
+        "viewBtn": ["Ansicht Öffnen"],
+        "createBtn": ["Erstellen"],
+        "footer": {
+          "openTickets": ["${perPage} von ${total} offenen Tickets"]
+        },
+        "link": ["ALLE OFFENEN TICKETS ANZEIGEN"]
+      },
+      "knowledge": {
+        "headline": ["Wissensbasis"],
+        "subhead": ["Alle Informationen, die Sie an einem beliebigen Punkt benötigen, stehen hier zur Suche bereit."],
+        "go": ["Gehen"],
+        "search": ["Jetzt suchen"]
+      },
+      "issues": {
+        "headline": ["Häufige Probleme"],
+        "subhead": ["Sehen Sie sich unsere allgemein bekannten Ticketprobleme an, um Zeit und Mühe zu sparen."]
+      },
+      "outage": {
+        "empty": ["Derzeit sind keine Ausfälle bekannt"],
+        "headline": ["Ausfälle"],
+        "subhead": ["Informieren Sie sich über Ausfälle und planen Sie die Aktivitäten Ihres Tages entsprechend."],
+        "date": ["Ab ${dateString}"],
+        "knownOutages": ["Bekannte Ausfälle"],
+        "footer": {
+          "knownIssues": ["${perPage} von ${total} bekannten Problemen"],
+          "link": ["ALLE BEKANNTEN AUSFÄLLE ANZEIGEN"]
+        },
+        "knownIssues": ["$ {num} von $ {num} bekannten Problemen"],
+        "viewBtn": ["JETZT ANSEHEN"],
+        "link": ["ALLE BEKANNTEN AUSFÄLLE ANZEIGEN"]
+      }
+    },
+    "sideNav": {
+      "home": ["Zuhause"],
+      "refresh": ["Aktualisierung"],
+      "logout": ["AUSLOGGEN"],
+      "callAgent": ["Rufen Sie einen Agenten an"],
+      "createTicket": ["Ticket erstellen"],
+      "openTicket": ["Offene Tickets"],
+      "knowledge": ["Wissensbasis"],
+      "issues": ["Häufige Probleme"],
+      "outages": ["Ausfälle"],
+      "scheduleCall": ["Kontakt planen"],
+      "survey": ["Umfrage"],
+      "video": ["Video"],
+      "demo": ["Demo"]
+    },
+    "createTicket": {
+      "title": ["Titel"],
+      "description": ["Beschreibung"],
+      "submit": ["Ticket erstellen"],
+      "headline": ["Ticket erstellen"],
+      "subhead": ["Erstellen Sie ein Ticket oder bleiben Sie über Ihre bestehenden Probleme auf dem Laufenden."],
+      "placeholderTitle": ["Geben Sie Ihrem Ticket einen passenden Thementitel"],
+      "placeholderDescription": ["Schreiben Sie über das Thema, zu dem Sie eine Frage haben."],
+      "viewOpenButton": ["Offene Tickets anzeigen"],
+      "required":["Bitte füllen Sie die erforderlichen Felder aus"]
+    },
+    "scheduleCallBack": {
+      "firstName": ["Vorname"],
+      "lastName": ["Nachname"],
+      "phoneNumber": ["Telefonnummer"],
+      "promiseDate": ["Planen Sie Datum"],
+      "promiseTime": ["Zeit auswählen"],
+      "timeZone": ["Zeitzone"],
+      "description": ["Beschreibung"],
+      "firstNamePlaceholder": ["Geben Sie Ihren Vornamen an"],
+      "lastNamePlaceholder": ["Geben Sie Ihren Nachnamen an"],
+      "phoneNumberPlaceholder": ["Bitte geben Sie hier Ihre Kontaktnummer ein"],
+      "promiseDatePlaceholder": ["Bitte wählen Sie das gewünschte Datum"],
+      "descriptionPlaceholder": ["Schreiben Sie über das Thema, zu dem Sie eine Frage haben."],
+      "submit": ["Jetzt planen"],
+      "headline": ["Möchten Sie, dass wir Sie anrufen?"],
+      "subhead": ["Planen Sie einen Rückruf zu Ihrem angegebenen Zeitpunkt."],
+      "subhead1": ["Wir möchten Ihre Fragen zu einem für Sie passenden Zeitpunkt beantworten."],
+      "subhead2": ["Bitte lassen Sie uns wissen, welche Fragen Sie haben und wann die beste Zeit für Sie ist, darüber zu sprechen!"],
+  
+      "placeholderTitle": ["Geben Sie einen geeigneten Thementitel an"],
+      "placeholderDescription": ["Schreiben Sie über das Thema, zu dem Sie eine Frage haben."]
+    },
+    "callAgent": {
+      "header": ["Rufen Sie einen Agenten an"],
+      "body": ["Sprechen Sie direkt mit unseren Vertretern oder vereinbaren Sie einen Rückruf zu einem bestimmten Zeitpunkt."],
+      "empty":["Keine Daten gefunden"],
+      "call":["Anruf"]
+    },
+    "noIOS": {
+      "body": ["Sie verwenden ein iOS-Gerät. Klicken Sie auf diesem Gerät auf den folgenden Link, um auf IVA zuzugreifen."],
+      "link": ["ZUGRIFFSFUNKTION JETZT"]
+    },
+    "noIE": {
+      "body": ["Sie verwenden den IE / Edge-Browser. Klicken Sie in diesem Browser auf den folgenden Link, um auf IVA zuzugreifen."],
+      "link": ["ZUGRIFFSFUNKTION JETZT"]
+    },
+    "session": {
+      "message": ["Ihre Sitzung ist abgelaufen. Bitte schließen Sie Ihren Browser oder klicken Sie auf \"Anmeldung\", um fortzufahren."],
+      "button": ["Anmeldung"]
+    }
+  }
+  

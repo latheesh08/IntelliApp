@@ -1,0 +1,45 @@
+{
+  "name": "IntelliApp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint *.js **/*.js",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/google-signin": "3.0.3",
+    "accordion-collapse-react-native": "0.1.11",
+    "jwt-decode": "2.2.0",
+    "moment": "2.24.0",
+    "native-base": "2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.5",
+    "react-native-azure-ad": "0.2.4",
+    "react-native-exit-app": "1.1.0",
+    "react-native-gesture-handler": "1.3.0",
+    "react-native-htmlview": "0.14.0",
+    "react-native-i18n": "2.0.15",
+    "react-native-localization": "2.1.3",
+    "react-native-popup-dialog": "0.18.3",
+    "react-native-responsive-screen": "1.2.2",
+    "react-native-simple-toast": "0.1.1",
+    "react-native-webview": "7.4.3",
+    "react-navigation": "3.11.0",
+    "react-redux": "7.1.0",
+    "redux": "4.0.3",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.4",
+    "@babel/runtime": "7.5.4",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "jetifier": "1.6.3",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

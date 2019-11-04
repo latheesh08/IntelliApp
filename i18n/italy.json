@@ -1,0 +1,159 @@
+{
+  "loading":["Caricamento in corso"],
+  "success":["successo"],
+  "net_failure":["Nessuna connessione internet"],
+    "welcome": {
+      "welcome":["Benvenuto a"],
+      "greeting": ["Ciao"],
+      "farewell": ["addio"],
+      "accept":["ACCETTARE"],
+      "terms":["CONDIZIONI D'USO"],
+      "Decline":["DECLINO"],
+      "text":[
+        "LICENZA PER L'UTENTE FINALE PER IL SOFTWARE ANDROID/IOS INTELISERVE LEGGERE ATTENTAMENTE QUESTO DOCUMENTO PRIMA DI UTILIZZARE IL SOFTWARE.",
+        "QUESTA LICENZA FORNISCE INFORMAZIONI IMPORTANTI RELATIVE AL SOFTWARE. FORNITI CON UNA LICENZA PER L'UTILIZZO DEL SOFTWARE E CONTIENE INFORMAZIONI SULLA GARANZIA E RESPONSABILITÀ.",
+        "UTILIZZANDO IL SOFTWARE, L'UTENTE ACCETTA IL SOFTWARE 'COSÌ COM'È' E ACCETTA DI ESSERE VINCOLATO DALLE CONDIZIONI DEL PRESENTE CONTRATTO DI LICENZA.",
+        "IN NESSUN CASO GLI AUTORI SARANNO RESPONSABILI PER QUALSIASI DANNO DERIVANTE DALL'UTILIZZO DI QUESTO SOFTWARE.",
+        "SE NON DESIDERI FARLO, NON UTILIZZARE IL SOFTWARE.",
+        "1. Condizioni di licenza Questa licenza consente di: (a) utilizzare il Software su un singolo dispositivo; e Se si desidera utilizzare il software su più di un dispositivo, è necessario concedere in licenza un'altra copia del software",
+        "2. Limitazioni d'uso A meno che UNISYS (Proprietario) non abbia autorizzato l'utente a distribuire il Software, l'utente non dovrà effettuare o distribuire copie del Software o trasferire il Software da un dispositivo all'altro. Non devi decompilare, decodificare, disassemblare, includere in altri software o tradurre il Software o utilizzare il Software per scopi commerciali. Non è consentito modificare, alterare, cambiare o altrimenti apportare modifiche al Software o creare opere derivate basate sul Software. Non è consentito noleggiare, noleggiare, rivendere, concedere in sub-licenza, assegnare, distribuire o trasferire in altro modo il Software o questa licenza. Qualsiasi tentativo di farlo sarà nullo e senza effetto.",
+        "3. Propiedad Esta licencia le otorga derechos limitados para usar el Software. El Propietario retiene toda la propiedad, derecho, título e interés en y para el Software y todas sus copias. Todos los derechos no otorgados específicamente en esta licencia, incluidos los derechos de autor nacionales e internacionales, están reservados por el Propietario.",
+        "4. Marchi proprietari I loghi, i nomi dei prodotti, i manuali, la documentazione e altri materiali di supporto del proprietario sono brevettati, protetti da copyright, marchi registrati, costituiscono preziosi segreti commerciali (indipendentemente dal fatto che una parte di essi possa essere protetta da copyright o brevettata) o siano altrimenti proprietari di il proprietario. Non è consentito rimuovere o oscurare il copyright, il marchio commerciale o altri avvisi di proprietà del Titolare da alcun materiale contenuto in questo pacchetto o scaricato insieme al Software.",
+        "5. Esonero da responsabilità e supporto tecnico Il Software viene fornito dopo aver pagato una licenza e 'COSÌ COM'È', senza alcun supporto tecnico o garanzia di alcun tipo, inclusi, a titolo esemplificativo, alcuna garanzia o condizione di commerciabilità, idoneità per uno scopo particolare e la non violazione.",
+        "ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE DI GARANZIE IMPLICITE, QUANTO SOPRA"
+      ]
+      
+    },
+    "login": {
+      "headline": ["registrati"],
+      "email_address": ["Indirizzo email"],
+      "password": ["Parola d'ordine"],
+      "remember": ["Ricordati di me"],
+      "sign_in": ["registrati"],
+      "required":["Questo campo è obbligatorio"],
+      "invalidEmail":["Si prega di inserire un indirizzo email valido"],
+      "notregister":["L'ID e-mail non è registrato"],
+      "notenant":["Inquilino non trovato"]
+    },
+    "dashboard": {
+      "rowsPerPage": ["Righe per pagina"],
+      "inputCharacters": ["${noOfChar} caratteri rimanenti"],
+      "results": ["${resultNo} risultati trovati"],
+      "headline": ["Cruscotto"],
+      "chat": {
+        "headline": ["Chatta con l'agente"],
+        "subhead": ["Il nostro agente virtuale è disponibile 24x7, chatta direttamente con loro e risolvi il tuo problema."],
+        "agentTxt": ["Ciao, sono l'agente virtuale di Unisys."],
+        "agentSubTxt": ["Sono qui per rispondere alle tue domande su Unisys."],
+        "axaagentTxt": ["Ciao, sono il Ask I.T. Agente virtuale"],
+        "axaagentSubTxt": ["Sono qui per rispondere al tuo I.T. domande"],
+        "btnTxt": ["Chatta Adesso"]
+      },
+      "tickets": {
+        "empty": ["Non ci sono biglietti aperti in questo momento"],
+        "searchEmpty": ["Non ci sono biglietti aperti trovati per questa ricerca"],
+        "create": ["Crea biglietto"],
+        "headline": ["Gestione dei biglietti"],
+        "headline2": ["Biglietti aperti"],
+        "subhead": ["Visualizza tutti i tuoi biglietti aperti per un migliore monitoraggio e gestione."],
+        "subhead2": ["Crea un biglietto o rimani aggiornato sui tuoi problemi esistenti."],
+        "viewBtn": ["Visualizza Apri"],
+        "createBtn": ["Creare"],
+        "footer": {
+          "openTickets": ["${perPage} di ${total} biglietti aperti"]
+        },
+        "link": ["VISUALIZZA TUTTI I BIGLIETTI APERTI"]
+      },
+      "knowledge": {
+        "headline": ["base di conoscenza"],
+        "subhead": ["Tutte le informazioni che potresti richiedere in qualsiasi momento sono disponibili qui pronte per la ricerca."],
+        "go": ["Partire"],
+        "search": ["Cerca ora"]
+      },
+      "issues": {
+        "headline": ["Problemi comuni"],
+        "subhead": ["Consulta i nostri problemi con i biglietti comunemente noti per risparmiare tempo e fatica."]
+      },
+      "outage": {
+        "empty": ["Non ci sono interruzioni note in questo momento"],
+        "headline": ["interruzioni"],
+        "subhead": ["Conoscere le interruzioni e pianificare le attività della giornata di conseguenza."],
+        "date": ["A partire da ${dateString}"],
+        "knownOutages": ["Interruzioni note"],
+        "footer": {
+          "knownIssues": ["${perPage} di ${total} problemi noti"],
+          "link": ["VISUALIZZA TUTTE LE USCITE CONOSCIUTE"]
+        },
+        "knownIssues": ["${num} di ${num} problemi noti"],
+        "viewBtn": ["GUARDA ORA"],
+        "link": ["VISUALIZZA TUTTE LE USCITE CONOSCIUTE"]
+      }
+    },
+    "sideNav": {
+      "home": ["Casa"],
+      "refresh": ["ricaricare"],
+      "logout": ["DISCONNETTERSI"],
+      "callAgent": ["Chiama un agente"],
+      "createTicket": ["Crea biglietto"],
+      "openTicket": ["Biglietti aperti"],
+      "knowledge": ["base di conoscenza"],
+      "issues": ["Problemi comuni"],
+      "outages": ["interruzioni"],
+      "scheduleCall": ["Pianifica contatto"],
+      "survey": ["Sondaggio"],
+      "video": ["video"],
+      "demo": ["dimostrazione"]
+    },
+    "createTicket": {
+      "title": ["Titolo"],
+      "description": ["Descrizione"],
+      "submit": ["Crea biglietto"],
+      "headline": ["Crea biglietto"],
+      "subhead": ["Crea un biglietto o rimani aggiornato sui tuoi problemi esistenti."],
+      "placeholderTitle": ["Assegna un titolo argomento appropriato al tuo biglietto"],
+      "placeholderDescription": ["Scrivi sull'argomento di cui hai una domanda."],
+      "viewOpenButton": ["Visualizza i biglietti aperti"],
+      "required":["Per favore riempi i campi richiesti"]
+    },
+    "scheduleCallBack": {
+      "firstName": ["Nome di battesimo"],
+      "lastName": ["Cognome"],
+      "phoneNumber": ["Numero di telefono"],
+      "promiseDate": ["Data del programma"],
+      "promiseTime": ["Seleziona l'ora"],
+      "timeZone": ["Fuso orario"],
+      "description": ["Descrizione"],
+      "firstNamePlaceholder": ["Fornisci il tuo nome"],
+      "lastNamePlaceholder": ["Fornisci il tuo cognome"],
+      "phoneNumberPlaceholder": ["Si prega di digitare il numero di contatto qui"],
+      "promiseDatePlaceholder": ["Scegli la data desiderata"],
+      "descriptionPlaceholder": ["Scrivi sull'argomento di cui hai una domanda."],
+      "submit": ["Pianifica ora"],
+      "headline": ["vuoi che ti chiamiamo?"],
+      "subhead": ["Pianifica una chiamata all'ora specificata."],
+      "subhead1": ["Vogliamo rispondere alle tue domande in un momento conveniente per te."],
+      "subhead2": ["Fateci sapere quali sono le vostre domande e quando è il momento migliore per parlarne!"],
+  
+      "placeholderTitle": ["Dai un titolo appropriato all'argomento"],
+      "placeholderDescription": ["Scrivi sull'argomento di cui hai una domanda."]
+    },
+    "callAgent": {
+      "header": ["Chiama un agente"],
+      "body": ["Parla direttamente con i nostri agenti o pianifica una chiamata all'ora specificata."],
+      "empty":["Nessun dato trovato"],
+      "call":["Chiamata"]
+    },
+    "noIOS": {
+      "body": ["Stai utilizzando un dispositivo IOS. Su questo dispositivo, fare clic sul collegamento in basso per accedere a IVA."],
+      "link": ["FUNZIONALITÀ DI ACCESSO ORA"]
+    },
+    "noIE": {
+      "body": ["Si sta utilizzando il browser IE / Edge. Su questo browser, fare clic sul collegamento in basso per accedere a IVA."],
+      "link": ["FUNZIONALITÀ DI ACCESSO ORA"]
+    },
+    "session": {
+      "message": ["La tua sessione è scaduta. Chiudi il browser o fai clic su \"ACCEDI \" per continuare."],
+      "button": ["Accesso"]
+    }
+  }
+  

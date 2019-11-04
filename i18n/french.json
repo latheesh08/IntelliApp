@@ -1,0 +1,367 @@
+{
+  "loading":["chargement"],
+  "success":["Succès"],
+  "net_failure":["Pas de connexion Internet"],
+  "welcome": {
+    "welcome":["Bienvenue à"],
+    "greeting": [
+      "Bonjour"
+    ],
+    "farewell": [
+      "Au revoir"
+    ],
+    "accept":["ACCEPTEZ"],
+    "terms":["CONDITIONS D'UTILISATION"],
+    "Decline":["DÉCLIN"],
+    "text":[
+      "LICENCE UTILISATEUR FINAL POUR LE LOGICIEL ANDROID/IOS INTELISERVE, LISEZ ATTENTIVEMENT CE DOCUMENT AVANT D'UTILISER CE LOGICIEL.",
+      "CETTE LICENCE FOURNIT DES INFORMATIONS IMPORTANTES SUR LE LOGICIEL, VOUS FOURNIT UNE LICENCE D'UTILISATION DU LOGICIEL ET CONTIENT DES INFORMATIONS DE GARANTIE ET ​​DE RESPONSABILITÉ. ",
+      "EN UTILISANT LE LOGICIEL, VOUS ACCEPTEZ LE LOGICIEL 'EN L'ÉTAT' ET ACCEPTE D'ÊTRE LIÉ PAR LES TERMES DU PRÉSENT CONTRAT DE LICENCE.",
+      "En aucun cas les auteurs ne pourront être tenus responsables des dommages résultant de l'utilisation de ce logiciel.",
+      "SI VOUS NE VOULEZ PAS LE FAIRE, N'UTILISEZ PAS LE LOGICIEL.",
+      "1. Conditions de licence Cette licence vous permet de: (a) utiliser le logiciel sur un seul appareil; et Si vous souhaitez utiliser le logiciel sur plusieurs appareils, vous devez acquérir une licence pour une autre copie du logiciel.",
+      "2. Restrictions d'utilisation Sauf si UNISYS (propriétaire) vous a autorisé à distribuer le logiciel, vous ne pouvez en faire ou en distribuer des copies, ni transférer le logiciel d'un appareil à un autre. Vous ne devez pas décompiler, désosser, désassembler, inclure dans un autre logiciel, ou traduire le logiciel, ou utiliser le logiciel à des fins commerciales. Vous ne devez pas modifier, modifier ou autrement modifier le logiciel, ni créer des œuvres dérivées basées sur le logiciel. revendre, sous-licencier, céder, distribuer ou autrement transférer le logiciel ou cette licence.Toute tentative en ce sens sera nulle et sans effet.",
+      "3. Propriété Cette licence vous donne des droits limités d'utilisation du logiciel. Le propriétaire conserve tous les droits de propriété, droits, titres et intérêts relatifs au logiciel et à ses copies. Tous les droits non expressément concédés dans cette licence, y compris les droits d'auteur nationaux et internationaux, sont réservés par le propriétaire.",
+      "4. Marquages ​​de propriété Les logos, noms de produits, manuels, documentation et autres supports du propriétaire sont soit protégés, soit protégés par un copyright, soit une marque de commerce, constituent des secrets de fabrication précieux (qu’une partie de ceux-ci puisse être protégée ou brevetée) le propriétaire. Vous ne devez pas supprimer ou masquer les droits d'auteur, la marque de commerce ou les autres avis de propriété du propriétaire des documents contenus dans ce package ou téléchargés avec le logiciel. ",
+      "5. Exclusion de garantie et support technique Le logiciel vous est fourni après le paiement d’une licence et en l’état, sans assistance technique ni garantie de quelque nature que ce soit, y compris, sans limitation, toute garantie ou condition de qualité marchande, d’aptitude à un but particulier et non-contrefaçon.",
+      "CERTAINES JURIDICTIONS N'AUTORISENT PAS L'EXCLUSION DES GARANTIES IMPLICITES"
+    ]
+  },
+  "landingPage": {
+    "title": [
+      "Welcome to InteliApp"
+    ],
+    "signIn": [
+      "Sign In"
+    ],
+    "emailPlaceholder": [
+      "Type your Email ID"
+    ],
+    "emailValidation": {
+      "message1": [
+        "Please enter valid email"
+      ],
+      "message2": [
+        "Email id is not registered!"
+      ]
+    },
+    "submitButton": [
+      "Go"
+    ],
+    "footerText": [
+      "Service desk at your finger tip"
+    ]
+  },
+  "login": {
+    "headline": [
+      "se connecter"
+    ],
+    "email_address": [
+      "Adresse électronique"
+    ],
+    "password": [
+      "Mot de passe"
+    ],
+    "remember": [
+      "Souviens-toi de moi"
+    ],
+    "sign_in": [
+      "se connecter"
+    ],
+    "required":["Ce champ est requis"],
+    "invalidEmail":["S'il vous plaît, mettez une adresse email valide"],
+    "notregister":["Email id n'est pas enregistré"],
+    "notenant":["Locataire non trouvé"]
+  },
+  "dashboard": {
+    "rowsPerPage": [
+      "Lignes par page"
+    ],
+    "inputCharacters": [
+      "${noOfChar} caractères restants"
+    ],
+    "results": [
+      "${resultNo} résultats trouvés"
+    ],
+    "headline": [
+      "Tableau de bord"
+    ],
+    "chat": {
+      "headline": [
+        "Discuter avec l'agent"
+      ],
+      "subhead": [
+        "Notre agent virtuel est disponible 24x7, discutez directement avec eux et résolvez votre problème."
+      ],
+      "agentTxt": [
+        "Bonjour, je suis l'agent virtuel Unisys."
+      ],
+      "agentSubTxt": [
+        "Je suis ici pour répondre à vos questions Unisys."
+      ],
+      "axaagentTxt": [
+        "Bonjour, je suis le Ask I.T. Agent virtuel"
+      ],
+      "axaagentSubTxt": [
+        "Je suis ici pour répondre à votre question des questions"
+      ],
+      "btnTxt": [
+        "Discuter avec un agent virtuel maintenant"
+      ]
+    },
+    "tickets": {
+      "empty": [
+        "Il n'y a pas de billets ouverts en ce moment"
+      ],
+      "searchEmpty": [
+        "Il n'y a pas de billets ouverts trouvés pour cette recherche"
+      ],
+      "create": [
+        "Créer un ticket"
+      ],
+      "headline": [
+        "Gestion des billets"
+      ],
+      "headline2": [
+        "Billets ouverts"
+      ],
+      "subhead": [
+        "Affichez tous vos billets ouverts pour un meilleur suivi et une meilleure gestion."
+      ],
+      "subhead2": [
+        "Créez un ticket ou restez à jour sur vos problèmes existants."
+      ],
+      "viewBtn": [
+        "Voir ouvert"
+      ],
+      "createBtn": [
+        "Créer"
+      ],
+      "footer": {
+        "openTickets": [
+          "${perPage} de ${total} billets ouverts"
+        ]
+      },
+      "link": [
+        "VOIR TOUS LES BILLETS OUVERTS"
+      ]
+    },
+    "knowledge": {
+      "headline": [
+        "Base de connaissances"
+      ],
+      "subhead": [
+        "Toutes les informations dont vous pouvez avoir besoin à tout moment sont disponibles ici, prêtes à la recherche."
+      ],
+      "go": [
+        "Aller"
+      ],
+      "search": [
+        "Rechercher maintenant"
+      ]
+    },
+    "issues": {
+      "headline": [
+        "Problèmes communs"
+      ],
+      "subhead": [
+        "Parcourez nos problèmes de tickets connus afin de gagner du temps et de réduire vos efforts."
+      ]
+    },
+    "outage": {
+      "empty": [
+        "Il n'y a aucune panne connue à ce moment"
+      ],
+      "headline": [
+        "Les pannes"
+      ],
+      "subhead": [
+        "Connaissez les pannes et planifiez les activités de votre journée en conséquence."
+      ],
+      "date": [
+        "À partir de ${dateString}"
+      ],
+      "knownOutages": [
+        "Pannes connues"
+      ],
+      "footer": {
+        "knownIssues": [
+          "${perPage} de ${total} Problèmes connus"
+        ],
+        "link": [
+          "VOIR TOUTES LES PÉRIODES CONNUES"
+        ]
+      },
+      "knownIssues": [
+        "${num} de ${num} Problèmes connus"
+      ],
+      "viewBtn": [
+        "VOIR MAINTENANT"
+      ],
+      "link": [
+        "VOIR TOUTES LES PÉRIODES CONNUES"
+      ]
+    }
+  },
+  "sideNav": {
+    "home": [
+      "Accueil"
+    ],
+    "refresh": [
+      "Rafraîchir"
+    ],
+    "logout": [
+      "CONNECTEZ - OUT"
+    ],
+    "callAgent": [
+      "Appeler un agent"
+    ],
+    "createTicket": [
+      "Créer un ticket"
+    ],
+    "openTicket": [
+      "Billets ouverts"
+    ],
+    "knowledge": [
+      "Base de connaissances"
+    ],
+    "issues": [
+      "Problèmes communs"
+    ],
+    "outages": [
+      "Les pannes"
+    ],
+    "scheduleCall": [
+      "Horaire Contact"
+    ],
+    "survey": [
+      "Sondage"
+    ],
+    "video": [
+      "Vidéo"
+    ],
+    "demo": [
+      "Démo"
+    ]
+  },
+  "createTicket": {
+    "title": [
+      "Titre"
+    ],
+    "description": [
+      "La description"
+    ],
+    "submit": [
+      "Créer un ticket"
+    ],
+    "headline": [
+      "Créer un ticket"
+    ],
+    "subhead": [
+      "Créez un ticket ou restez à jour sur vos problèmes existants."
+    ],
+    "placeholderTitle": [
+      "Donnez un titre de sujet approprié à votre billet"
+    ],
+    "placeholderDescription": [
+      "Écrivez sur le sujet pour lequel vous avez une question."
+    ],
+    "viewOpenButton": [
+      "Voir les billets ouverts"
+    ],
+    "required":["S'il vous plaît remplir les champs obligatoires"]
+  },
+  "scheduleCallBack": {
+    "firstName": [
+      "Prénom"
+    ],
+    "lastName": [
+      "Nom de famille"
+    ],
+    "phoneNumber": [
+      "Numéro de téléphone"
+    ],
+    "promiseDate": [
+      "Date de l'horaire"
+    ],
+    "promiseTime": [
+      "Sélectionnez l'heure"
+    ],
+    "timeZone": [
+      "Fuseau horaire"
+    ],
+    "description": [
+      "La description"
+    ],
+    "firstNamePlaceholder": [
+      "Indiquez votre prénom"
+    ],
+    "lastNamePlaceholder": [
+      "Indiquez votre nom de famille"
+    ],
+    "phoneNumberPlaceholder": [
+      "Veuillez taper votre numéro de contact ici"
+    ],
+    "promiseDatePlaceholder": [
+      "S'il vous plaît choisir la date souhaitée"
+    ],
+    "descriptionPlaceholder": [
+      "Écrivez sur le sujet pour lequel vous avez une question."
+    ],
+    "submit": [
+      "Horaire maintenant"
+    ],
+    "headline": [
+      "Voulez-vous que nous vous appelions?"
+    ],
+    "subhead": [
+      "Planifiez un rappel à l'heure spécifiée."
+    ],
+    "subhead1": [
+      "Nous voulons répondre à vos questions à un moment qui vous convient."
+    ],
+    "subhead2": [
+      "S'il vous plaît laissez-nous savoir quelles questions vous avez et quel est le meilleur moment pour en parler!"
+    ],
+    "placeholderTitle": [
+      "Donnez un titre de sujet approprié"
+    ],
+    "placeholderDescription": [
+      "Écrivez sur le sujet pour lequel vous avez une question."
+    ]
+  },
+  "callAgent": {
+    "header": [
+      "Appeler un agent"
+    ],
+    "body": [
+      "Parlez directement à nos agents ou planifiez un rappel à l’heure indiquée."
+    ],
+    "empty":["Aucune donnée disponible"],
+    "call":["Appel"]
+  },
+  "noIOS": {
+    "body": [
+      "Vous utilisez un périphérique IOS. Sur cet appareil, veuillez cliquer sur le lien ci-dessous pour accéder à IVA."
+    ],
+    "link": [
+      "FONCTION D'ACCÈS MAINTENANT"
+    ]
+  },
+  "noIE": {
+    "body": [
+      "Vous utilisez le navigateur IE / Edge. Sur ce navigateur, veuillez cliquer sur le lien ci-dessous pour accéder à IVA."
+    ],
+    "link": [
+      "FONCTION D'ACCÈS MAINTENANT"
+    ]
+  },
+  "session": {
+    "message": [
+      "Votre session a expiré. Fermez votre navigateur ou cliquez sur \"S'identifier\" pour continuer."
+    ],
+    "button": [
+      "S'identifier"
+    ]
+  }
+}

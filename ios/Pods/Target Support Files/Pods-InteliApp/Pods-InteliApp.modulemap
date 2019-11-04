@@ -1,0 +1,6 @@
+framework module Pods_InteliApp {
+  umbrella header "Pods-InteliApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
